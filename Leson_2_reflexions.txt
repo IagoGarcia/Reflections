@@ -1,0 +1,33 @@
+1-)	What happens when you initialize a repository? Why do you need to do it?
+		Você precisa ter uma conta no GitHub. Ao inicializar um repositório 
+você pode adicionar um arquivo e ali fazer o controle das versões, atualizações, além
+de poder ter contribuições.  
+
+2-)	How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+		Na área de teste é possível alterar seu arquivo, além de ver se houve contribuiçoes,etc.
+
+3-)	How can you use the staging area to make sure you have one commit per logical
+change?	
+		Na area de teste, através de comandos do Git, você pode se certificar de que há 
+commit para alterar.
+
+4-)	What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+		Uma "arvore distribuida em ramo" ajudaria no quesito de controle, pois com ela 
+pode-se obter um maior referencial do que está sendo feito.
+	
+5-)	How do the diagrams help you visualize the branch structure?
+		A cada arquivo pode-se fazer um diagrama, do tipo arvore de ramos, com isso pode-se
+ ter uma visão mais ampla do desenvolvimento do seu projeto.
+			
+
+6-)	What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+		Significa que há uma dependência entre eles, ou seja, a fusão de ramos é destinada a 
+tarefas que se complementam.
+
+7-)	What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
+manually?
+		O Git sae na frente no quesito fusão automática, desta forma o usuario 
+não precisa se preocupar com os ramos em que têm que haver fusão.

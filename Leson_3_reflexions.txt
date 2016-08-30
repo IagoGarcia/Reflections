@@ -1,0 +1,27 @@
+1-)	When would you want to use a remote repository rather than keeping all your work
+local?
+		Quando se precisa fazer uma pequena alteração onde não há necessecidade de 
+um aplicativo externo.
+
+    
+2-)	Why might you want to always pull changes manually rather than having Git
+automatically stay up-to-date with your remote repository?
+		Pode-se fazer alterações manualmente em umm repositório, desta forma fica a 
+criterio do usuaria escolher a que lhe deixa mais confortável.
+		    
+
+3-)	What is the benefit of having a copy of the last known state of the remote
+stored locally?
+		Ter uma copia do ultimo estado do controle remoto é importante, caso necessite 
+fazer uma alteração rápida, em que neste caso você não perderá tempo em buscar pelo histórico.
+
+4-)	How would you collaborate without using Git or GitHub?  What would be easier,
+and what would be harder?
+		Usando o Git é possível ter acesso a milhares de projetos distribuidos pelo mundo, 
+desta forma, quando quiser pode-se coloborar em algum projeto que ache interessante, ajudando no 
+seu desenvolvimento.
+
+5-)	When would you want to make changes in a separate branch rather than directly in
+master?  What benefits does each approach have?
+		 O Git possibilita fazer alterções em um ramo separado, sem a necessidade de mexer em 
+todo o arquivo.

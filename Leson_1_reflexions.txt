@@ -1,0 +1,49 @@
+1-)  How did viewing a diff between two versions help you spot the bug? 
+	Acredito que em caso de erro, uma comparação entre duas versões 
+existentes de um determinado software se torna primordial para a solução 
+deste determinado erro.
+
+2-)  How could having easy access to the entire history of a file make 
+you a more efficient programmer in the long term?
+	 Para se ter todo historico de um determinado arquivo é necessário
+ que suas versões sejam salvas, para isto há algumas ferramentas como 
+Google Docs, DropBox, GitHub, etc.
+
+
+3-)  What do you think are the pros and cons of manually choosing when to 
+create a commit, like you do in Git, vs having versions automatically saved, 
+like Google docs does?
+	Na criação do Commit, você tem liberdade de atualizar seu arquivo de 
+acordo com suas necessidades, além de escolher qual das versões usar. Já nas
+versões salvas automaticamente, em sua maioria, seu arquivo é salvo versão após
+versão, desta forma deixando a desejar no quesito liberdade de escolha de versões.
+	       
+
+4-)  Why do you think some version control systems, like Git, allow saving 
+multiple files in one commit, while others, like Google Docs, treat each file 
+separately?
+	 Há alguns sistemas de controle de versão que são mais especifícos para 
+determinada tarefa, como no caso do GitHub, você pode salvar varias versões em 
+um só Commit, já em outros sistemas as versões são tratadas separadamente.
+
+
+5-)  How can you use the commands git log and git diff to view the history 
+of files?
+	Usando os comandos git log e git diff no Git Bash é possível ter todo 
+acesso ao histórico do seu arquivo, podendo desta forma monitorar cada versão
+o que facilita, por exemplo, na resolução de algum bug.
+	  
+
+6-)  How might using version control make you more confident to make changes 
+that could break something?
+	No Git você pode fazer mudanças em um arquivo sem medo de estragar o 
+mesmo, pois nele você tem acesso a todas as alterações feitas, além de poder 
+usar um versão antiga.
+
+
+7-)  Now that you have your workspace set up, what do you want to try using 
+Git for?
+	Usarei o Git para todos os projetos que irei desenvolver, pois com 
+ele poderei ter um maior controle sobre todas as versões desenvolvidas, além 
+de poder ter a oportunidade de que alguém contribua para o desenvolvimento 
+dos projetos.
